@@ -1,7 +1,7 @@
 import Navbar from "./Navbar";
 import Billing from "./Billing";
 import CardDeal from "./CardDeal";
-import business from "./business";
+import Business from "./Business";
 import Clients from "./Clients";
 import CTA from "./CTA";
 import Stats from "./Stats";
@@ -13,7 +13,7 @@ export {
     Navbar,
     Billing,
     CardDeal,
-    business,
+    Business,
     Clients,
     CTA,
     Stats,
